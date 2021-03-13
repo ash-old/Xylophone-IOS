@@ -16,14 +16,14 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="2Bd-5S-fMX">
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="2Bd-5S-fMX">
                                 <rect key="frame" x="0.0" y="44" width="414" height="774"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Kr0-eM-zIE" userLabel="C Key">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="103.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="106.5"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MzO-eh-AAa">
-                                                <rect key="frame" x="5" y="0.0" width="404" height="103.5"/>
+                                                <rect key="frame" x="5" y="0.0" width="404" height="106.5"/>
                                                 <color key="backgroundColor" red="0.64742857220000005" green="0.11853265020000001" blue="0.1335859895" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="C">
@@ -42,10 +42,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tsV-Kt-xC0" userLabel="D Key">
-                                        <rect key="frame" x="0.0" y="111.5" width="414" height="104"/>
+                                        <rect key="frame" x="0.0" y="111.5" width="414" height="106"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAO-hr-awJ" userLabel="D">
-                                                <rect key="frame" x="10" y="0.0" width="394" height="104"/>
+                                                <rect key="frame" x="10" y="0.0" width="394" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="D">
@@ -65,10 +65,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="paU-uh-mB3" userLabel="E Key">
-                                        <rect key="frame" x="0.0" y="223.5" width="414" height="103.5"/>
+                                        <rect key="frame" x="0.0" y="222.5" width="414" height="106.5"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="scM-N4-Oyh">
-                                                <rect key="frame" x="15" y="0.0" width="384" height="103.5"/>
+                                                <rect key="frame" x="15" y="0.0" width="384" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="E">
@@ -88,10 +88,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="J7U-wu-Yd3" userLabel="F Key">
-                                        <rect key="frame" x="0.0" y="335" width="414" height="104"/>
+                                        <rect key="frame" x="0.0" y="334" width="414" height="106"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MxR-9o-eOU" userLabel="F">
-                                                <rect key="frame" x="25" y="0.0" width="364" height="104"/>
+                                                <rect key="frame" x="25" y="0.0" width="364" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="F">
@@ -111,10 +111,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1Mv-QE-1Oa" userLabel="G Key">
-                                        <rect key="frame" x="0.0" y="447" width="414" height="103.5"/>
+                                        <rect key="frame" x="0.0" y="445" width="414" height="106.5"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sxq-2k-360" userLabel="G">
-                                                <rect key="frame" x="30" y="0.0" width="354" height="110"/>
+                                                <rect key="frame" x="30" y="0.0" width="354" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemIndigoColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="G">
@@ -134,10 +134,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KdV-Nr-9xP" userLabel="A Key">
-                                        <rect key="frame" x="0.0" y="558.5" width="414" height="104"/>
+                                        <rect key="frame" x="0.0" y="556.5" width="414" height="106"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fkh-0n-DcD" userLabel="A">
-                                                <rect key="frame" x="35" y="0.0" width="344" height="104"/>
+                                                <rect key="frame" x="35" y="0.0" width="344" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="A">
@@ -157,10 +157,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="wme-T1-1SS" userLabel="B Key">
-                                        <rect key="frame" x="0.0" y="670.5" width="414" height="103.5"/>
+                                        <rect key="frame" x="0.0" y="667.5" width="414" height="106.5"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C7a-Nz-V6S" userLabel="B">
-                                                <rect key="frame" x="40" y="0.0" width="334" height="103.5"/>
+                                                <rect key="frame" x="40" y="0.0" width="334" height="106.5"/>
                                                 <color key="backgroundColor" systemColor="systemPurpleColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="B">
