@@ -68,7 +68,7 @@
                                         <rect key="frame" x="0.0" y="222.5" width="414" height="106.5"/>
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="scM-N4-Oyh">
-                                                <rect key="frame" x="15" y="0.0" width="384" height="106"/>
+                                                <rect key="frame" x="15" y="0.0" width="384" height="106.5"/>
                                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
                                                 <state key="normal" title="E">
@@ -113,7 +113,7 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1Mv-QE-1Oa" userLabel="G Key">
                                         <rect key="frame" x="0.0" y="445" width="414" height="106.5"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sxq-2k-360" userLabel="G">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sxq-2k-360" userLabel="G">
                                                 <rect key="frame" x="30" y="0.0" width="354" height="106"/>
                                                 <color key="backgroundColor" systemColor="systemIndigoColor"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
@@ -129,8 +129,8 @@
                                         <constraints>
                                             <constraint firstItem="sxq-2k-360" firstAttribute="top" secondItem="1Mv-QE-1Oa" secondAttribute="top" id="MCE-rP-APe"/>
                                             <constraint firstAttribute="bottom" secondItem="sxq-2k-360" secondAttribute="bottom" id="N3q-rp-rgk"/>
-                                            <constraint firstAttribute="trailing" secondItem="sxq-2k-360" secondAttribute="trailing" constant="32" id="p3a-st-6id"/>
-                                            <constraint firstItem="sxq-2k-360" firstAttribute="leading" secondItem="1Mv-QE-1Oa" secondAttribute="leading" constant="28" id="vs9-rh-6vN"/>
+                                            <constraint firstAttribute="trailing" secondItem="sxq-2k-360" secondAttribute="trailing" constant="30" id="p3a-st-6id"/>
+                                            <constraint firstItem="sxq-2k-360" firstAttribute="leading" secondItem="1Mv-QE-1Oa" secondAttribute="leading" constant="30" id="vs9-rh-6vN"/>
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KdV-Nr-9xP" userLabel="A Key">
